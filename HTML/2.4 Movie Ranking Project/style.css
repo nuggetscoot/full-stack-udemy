@@ -31,7 +31,6 @@ h2 {
 .background-1{
     padding: 10px;
     background-color: #fba590;
-    margin: 0;
 }
 
 .background-2{
@@ -51,6 +50,7 @@ h2 {
 
 .background-5{
     padding: 10px;
+  
 }
 .container {
     display: flex;
@@ -83,4 +83,5 @@ p {
 footer {
     padding: 10px;
     padding-left: 20px;
+    font-size: larger;
 }
